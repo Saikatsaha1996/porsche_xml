@@ -3,20 +3,20 @@
   <remote fetch="https://github.com" name="github" />
 
   <!-- Common repositories that are universal for all oplus devices -->
-  <project name="Saikatsaha1996/hardware_oplus" path="hardware/oneplus" revision="fifteen" />
+  <project name="Saikatsaha1996/hardware_oplus" path="hardware/oneplus" revision="fourteen" />
 
   <!-- vendor trees -->
-  <project name="Saikatsaha1996/vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="fifteen" />
-  <project name="Saikatsaha1996/vendor_realme_porsche" path="vendor/realme/porsche" revision="fifteen" />
+  <project name="Saikatsaha1996/vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="fourteen" />
+  <project name="Saikatsaha1996/vendor_realme_porsche" path="vendor/realme/porsche" revision="fourteen" />
 
   <!-- SM8350 Kernel -->
-  <project name="Saikatsaha1996/kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="fifteen" />
+  <project name="Saikatsaha1996/kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="fourteen" />
   
   <!-- SM8350 Common device trees -->
-  <project name="Saikatsaha1996/android_device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="fifteen" />
+  <project name="Saikatsaha1996/android_device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="fourteen" />
 
   <!-- realme devices -->
-  <project name="Saikatsaha1996/device_realme_porsche" path="device/realme/porsche" revision="fifteen" />
+  <project name="Saikatsaha1996/device_realme_porsche" path="device/realme/porsche" revision="fourteen" />
 
   <!-- lindroid projects -->
   <project name="Linux-on-droid/external_lxc" path="external/lxc" revision="lindroid-21" />
