@@ -3,7 +3,7 @@
   <remote fetch="https://github.com" name="github" />
 
   <!-- Common repositories that are universal for all oplus devices -->
-  <project name="Saikatsaha1996/hardware_oplus" path="hardware/oneplus" revision="fourteen" />
+  <project name="Saikatsaha1996/hardware_oplus" path="hardware/oplus" revision="fourteen" />
 
   <!-- vendor trees -->
   <project name="Saikatsaha1996/vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="fourteen" />
@@ -22,8 +22,4 @@
   <project name="Linux-on-droid/external_lxc" path="external/lxc" revision="lindroid-21" />
   <project name="Linux-on-droid/vendor_lindroid" path="vendor/lindroid" revision="lindroid-21" />
   <project name="Linux-on-droid/libhybris" path="libhybris" revision="lindroid-21" />
-
-  <!-- Play integrity fix and extras -->
-  <project name="pjgowtham/android_vendor_extra" path="vendor/extra" remote="gitlab" />
-  <project name="luk1337/ih8sn" path="vendor/ih8sn" revision="master" />
 </manifest>
